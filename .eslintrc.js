@@ -80,6 +80,7 @@ module.exports = {
         code: 140,
       },
     ],
+    'vue/multi-word-component-names': 'off',
   },
   settings: {
     'import/resolver': {

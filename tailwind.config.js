@@ -8,6 +8,8 @@ module.exports = {
       lato: ['Lato'],
       raleway: ['Raleway'],
       krona: ['Krona One'],
+      tcsans: ['Noto Sans TC'],
+      tcserif: ['Noto Serif TC'],
     },
     screens: {
       sm: { min: '375px', max: '767px' },
@@ -41,6 +43,7 @@ module.exports = {
         'fgl-lime': '#c2d730', // Lime
         'fgl-coconut': '#f2f7d5', // Coconut Cream
         'fgl-valencia': '#db3e4d', // Valencia
+        'gcn-keppel': '#36A692', // Keppel
 
         // status
         'fgl-success': '#207f4c', // Eucalyptus
